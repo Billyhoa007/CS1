@@ -1,0 +1,13 @@
+=================================================================================
+Score: 47
+
+  Remarks:
+   manu.cpp:
+     -3  The program should run until the user want to stop!
+
+  Ask your lab instructor if you have any questions about or problems
+  with your score.
+
+-------------------
+2013-June-25
+-------------------

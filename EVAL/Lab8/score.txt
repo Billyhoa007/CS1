@@ -1,0 +1,13 @@
+=================================================================================
+Score: 47
+
+  Remarks:
+   gradearray.cpp:
+     -3  Did not check input validation!
+
+  Ask your lab instructor if you have any questions about or problems
+  with your score.
+
+-------------------
+2013-July-15
+-------------------

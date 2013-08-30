@@ -1,0 +1,13 @@
+=================================================================================
+Score: 45
+
+  Remarks:
+   arrayoffsets.cpp:
+     -5  Logic error(s) are present when the user want to repeat the program.
+
+  Ask your lab instructor if you have any questions about or problems
+  with your score.
+
+-------------------
+2013-July-18
+-------------------

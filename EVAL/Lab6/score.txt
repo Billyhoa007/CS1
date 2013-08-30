@@ -1,0 +1,13 @@
+=================================================================================
+Score: 45
+
+  Remarks:
+   baseconverter.cpp:
+     -5  Did not check the result for overflow!
+
+  Ask your lab instructor if you have any questions about or problems
+  with your score.
+
+-------------------
+2013-July-2
+-------------------
